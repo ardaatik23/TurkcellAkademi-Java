@@ -1,0 +1,15 @@
+Java Veri Tipleri:
+
+	int: -2.147.483.648 ile 2.147.483.647 arasındaki tam sayıları saklar.
+
+	short: -32.768'den 32.767'ye kadar tam sayıları saklar.
+
+	byte: -128 ile 127 arasındaki tam sayıları saklar.(1 byte = 8 bit)
+
+	float: Kesirli sayıları saklar. 6 ila 7 ondalık basamak saklamak için yeterli.
+
+	double:  double türündeki değişkenler 64 bitlik (8 byte) gerçek sayı depolarlar. 
+
+	boolean: true veya false değerlerini saklar.
+
+	char: Tek bir karakter/harf veya ASCII değerlerini saklar.
